@@ -17,5 +17,5 @@ The user can alter:
 -Days to simulate
 
 
-The DES OR Shiny represents an older version. The OR DES Stan v1.R is the most advanced DES model in this example (without shiny application). 
+The DES OR Shiny represents an older version. The OR DES v1.R is the most advanced DES model in this example (without shiny application). 
 NOTE: This model only uses fictional data and is for education purposes only! Results have not been verified or represent reality.
